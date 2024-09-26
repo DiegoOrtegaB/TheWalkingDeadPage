@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="Description" content="El sitio oficial de The Walking Dead, que presenta información sobre películas, series, videojuegos, episodios y más de The Walking Dead">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>TheWalkingDead.com | El sitio web oficial de The Walking Dead</title>
+<!-- TemplateEndEditable -->
+<link rel="shortcut icon" href="../g_index/favicon.png">
+<link rel="stylesheet" href="../estilos_css/hoja1.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<header>
+    	<img src="../g_index/img_cabeza_internas.jpg" alt=""/>
+	</header>
+	<nav>
+	  	<ul>
+			<li><a href="../index.html">Inicio</a></li>
+			<li><a href="../historia.html">Historia</a></li>
+			<li><a href="../reparto.html">Reparto</a></li>
+			<li><a href="../episodios.html">Episodios</a></li>
+			<li><a href="../juegos.html">Juegos</a></li>
+		</ul>
+	</nav>
+	<main>
+		<!-- TemplateBeginEditable name="Titulo" -->
+			<div class="separador sep_img">
+				<h4> - HISTORIA - </h4>
+			</div><!--Final de separador-->
+		<!-- TemplateEndEditable -->
+		
+		<div class="el_nuevo_main">
+			<!-- TemplateBeginEditable name="Contenidos" -->
+				<div class="primera_parte">
+					<h1>Hola</h1>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque tempore itaque reiciendis voluptate asperiores nisi commodi facere labore quam inventore odit aliquid sit suscipit nihil perspiciatis, earum culpa, velit corporis!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam omnis dignissimos doloribus molestiae laboriosam, voluptatum pariatur excepturi, sequi? Accusamus labore aperiam voluptate amet cum numquam, quaerat quas. Necessitatibus, quis a!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic suscipit magnam illum ipsa laborum accusamus cumque aliquam, eum, quae quibusdam ullam commodi architecto ducimus perspiciatis dolorum reiciendis ipsam earum cum!</p>
+				</div>
+			<!-- TemplateEndEditable -->
+		</div><!--finaliza el nuevo main-->
+		
+		<div class="gradiente_caja"></div><!--final de gradiente caja-->
+    </main>
+	<footer>
+		<div class="foto_f_1">
+	    	<img src="../g_index/logo_nombre_png_final.png" width="180" alt=""/>
+		</div>
+		<div class="iconos">
+			<ul>
+				<li><a target="_blank" href="https://www.facebook.com/TheWalkingDeadAMC/"><i class="fa-brands fa-square-facebook"></i></a></li>
+				<li><a target="_blank" href="https://twitter.com/WalkingDead_AMC?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"><i class="fa-brands fa-square-x-twitter"></i></a></li>
+				<li><a target="_blank" href="https://www.instagram.com/amcthewalkingdead/"><i class="fa-brands fa-square-instagram"></i></a></li>
+				<li><a target="_blank" href="https://co.pinterest.com/janet_1270/the-walking-dead/"><i class="fa-brands fa-square-pinterest"></i></a></li>
+				<li><a target="_blank" href="https://www.youtube.com/@TheWalkingDead"><i class="fa-brands fa-square-youtube"></i></a></li>
+			</ul>
+		</div>
+		<div class="txt_f_2">
+	    	<ul>
+				<li><a href="../index.html">Inicio</a></li>
+				<li><a href="../historia.html">Historia</a></li>
+				<li><a href="../reparto.html">Reparto</a></li>
+				<li><a href="../episodios.html">Episodios</a></li>
+				<li><a href="../juegos.html">Juegos</a></li>
+			</ul>
+		</div>
+	</footer>
+	
+</body>
+</html>
